@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sufi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40%">
 
 - 👀 I’m interested in multiplatform app development
 - 🌱 I’m currently learning Javascript, C++ and CMake
