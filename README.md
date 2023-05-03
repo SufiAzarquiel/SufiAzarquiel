@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40%">
 
 - 👀 I’m interested in multiplatform app development
-- 🌱 I’m currently learning Javascript, C++ and CMake
+- 🌱 I’m currently learning Java
 - ✉️ You can shoot me an email at sufiAzarquiel@outlook.es!
 
 #### A little more about me
