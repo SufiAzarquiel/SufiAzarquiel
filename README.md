@@ -57,7 +57,7 @@ int main(int argc, char *argv[])
     <img
       width="60%"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=sufiAzarquiel&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
-      alt="sufiAzarquiel"
+      alt="sufiAzarquiel stats"
     />
   </a>
 </p>
