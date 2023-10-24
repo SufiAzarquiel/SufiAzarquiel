@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40%">
 
 - 👀 I’m interested in multiplatform app development
-- 🌱 I’m currently learning Kotlin, C#, C, Java and XAML
+- 🌱 I’m currently learning Kotlin, C# (WPF), C and Java.
 - ✉️ You can shoot me an email at sufiAzarquiel@outlook.es!
 
 #### A little more about me
